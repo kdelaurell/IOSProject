@@ -2,7 +2,7 @@
 Small project that queries website for country data. Takes random useful information on country and displays that information in a organized and logical manner.
 
 Uses:
-Extensions
+Extensions,\n
 Protocols
 Custom Collection View Cells (XIB)
 Programmatic Constraints
